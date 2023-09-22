@@ -1,0 +1,44 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+
+
+.div{
+    background-color: rgba(145, 16, 145, 0.849);
+text-align: center;
+margin: auto;
+width: 700px;
+height: 700px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+form{
+    background-color:  rgba(82, 3, 82, 0.687);
+    align-items: center;
+    padding: 120px;
+    color:white;
+   display: inline-block;
+   margin-top: 12px
+}
+
+label{
+    display: inline-block;
+        width: 140px;
+        text-align: left;
+        
+}
+select{
+    width: 170px;
+}
+   textarea{
+    width: 170px;
+   }
+   button{
+    width: 300px;
+    height: 30px;
+    color: black;
+    font-size: larger;
+   }
